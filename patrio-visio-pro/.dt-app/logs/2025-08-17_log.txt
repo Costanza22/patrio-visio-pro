@@ -1,0 +1,39 @@
+2025-08-17T16:07:53.965Z DEBUG [PLUGIN] Searching for configuration file
+2025-08-17T16:07:53.966Z DEBUG [PLUGIN] Found c:\Users\Frida\patrio-visio-pro\app.config.js
+2025-08-17T16:07:53.967Z WARNING 
+Warning ──────────────────────────────────────────────────────────────────────────────────
+
+  The configuration "root" is deprecated and will be removed in dt-app v1.0. To specify the root of your project, please use the flag `--cwd` instead.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+2025-08-17T16:07:54.133Z INFO > CLI configuration: error: 'CliOptions' must have required property 'app'.
+2025-08-17T16:07:54.133Z INFO > CLI configuration: error: 'CliOptions' contains unknown property '__esModule'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.133Z INFO > CLI configuration: error: 'CliOptions' contains unknown property 'default'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.133Z INFO > CLI configuration: error: 'CliOptions' must contain a valid 'environmentUrl'. Please specify one in your 'app.config.(json|js|ts)' file.
+2025-08-17T16:07:54.901Z DEBUG [PLUGIN] Searching for configuration file
+2025-08-17T16:07:54.901Z DEBUG [PLUGIN] Found c:\Users\Frida\patrio-visio-pro\app.config.js
+2025-08-17T16:07:54.901Z WARNING 
+Warning ──────────────────────────────────────────────────────────────────────────────────
+
+  The configuration "root" is deprecated and will be removed in dt-app v1.0. To specify the root of your project, please use the flag `--cwd` instead.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+2025-08-17T16:07:54.957Z INFO > CLI configuration: error: 'CliOptions' must have required property 'app'.
+2025-08-17T16:07:54.957Z INFO > CLI configuration: error: 'CliOptions' contains unknown property '__esModule'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.957Z INFO > CLI configuration: error: 'CliOptions' contains unknown property 'default'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.957Z INFO > CLI configuration: error: 'CliOptions' must contain a valid 'environmentUrl'. Please specify one in your 'app.config.(json|js|ts)' file.
+2025-08-17T16:07:54.957Z DEBUG [PLUGIN] Searching for configuration file
+2025-08-17T16:07:54.958Z DEBUG [PLUGIN] Found c:\Users\Frida\patrio-visio-pro\app.config.js
+2025-08-17T16:07:54.958Z WARNING 
+Warning ──────────────────────────────────────────────────────────────────────────────────
+
+  The configuration "root" is deprecated and will be removed in dt-app v1.0. To specify the root of your project, please use the flag `--cwd` instead.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+2025-08-17T16:07:54.995Z INFO > CLI configuration: error: 'CliOptions' must have required property 'app'.
+2025-08-17T16:07:54.995Z INFO > CLI configuration: error: 'CliOptions' contains unknown property '__esModule'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.995Z INFO > CLI configuration: error: 'CliOptions' contains unknown property 'default'. Please check if there is a typo or remove it.
+2025-08-17T16:07:54.995Z INFO > CLI configuration: error: 'CliOptions' must contain a valid 'environmentUrl'. Please specify one in your 'app.config.(json|js|ts)' file.

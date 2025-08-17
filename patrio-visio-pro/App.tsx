@@ -9,7 +9,7 @@ import { LocationData } from './services/LocationService';
 export default function App() {
   const [detectedBuilding, setDetectedBuilding] = useState<Building | null>(null);
   const [aiAnalysis, setAiAnalysis] = useState<any>(null);
-  const [currentLocation, setCurrentLocation] = useState<LocationData | null>(null);
+  const [currentLocation, setCurrentLocation] = useState<LocationData | undefined>(undefined);
   const [isCameraActive, setIsCameraActive] = useState(true);
 
   const handleObjectDetected = (
@@ -26,7 +26,7 @@ export default function App() {
   const handleCloseBuildingInfo = () => {
     setDetectedBuilding(null);
     setAiAnalysis(null);
-    setCurrentLocation(null);
+    setCurrentLocation(undefined);
     setIsCameraActive(true);
   };
 
