@@ -1,0 +1,40 @@
+{
+  "name": "patrio-visio-pro",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:ci": "jest --ci --coverage --watchAll=false",
+    "test:debug": "jest --detectOpenHandles --forceExit"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "expo": "~53.0.20",
+    "expo-camera": "^16.1.11",
+    "expo-image-picker": "^16.1.4",
+    "expo-location": "^18.1.6",
+    "expo-media-library": "^17.1.7",
+    "expo-permissions": "^14.4.0",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@testing-library/jest-native": "^5.4.3",
+    "@testing-library/react-native": "^13.2.2",
+    "@types/jest": "^30.0.0",
+    "@types/react": "~19.0.10",
+    "jest": "^30.0.5",
+    "jest-expo": "^53.0.9",
+    "react-test-renderer": "^19.1.1",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
