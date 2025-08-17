@@ -491,7 +491,7 @@ interface LocationData {
 
 #### **📝 Enviar Feedback**
 - **GitHub Issues**: Crie uma issue detalhada
-- **Email**: [seu-email@exemplo.com]
+- **Email**: [pinassef22@gmail.com]
 - **Discord**: [Servidor da Comunidade]
 - **Formulário**: [Link para formulário de feedback]
 
