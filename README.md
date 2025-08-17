@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21824131/README.md)
 # 🏛️ Patrio Visio Pro - IA Edition
 
 **Sistema Inteligente de Reconhecimento de Casarões Históricos com IA Avançada**
